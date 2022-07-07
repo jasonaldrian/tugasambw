@@ -1,0 +1,5 @@
+1. Dropdown -> menampilkan list pilihan waktu di klik, sama dengan spinner di kotlin
+2. InteractiveViewer -> untuk widget yang ukurannya terlalu besar dan membuat jadi interaktif sesuai dengan ukuran layar
+3. ListStyle -> untuk membuat listview yang sudah ada switch
+4. RefreshIndicator -> menampilkan dan menambah refresh indicator saat halaman di scroll kebawah seperti refresh di aplikasi2
+5. PhysicalModel -> memberi shadow kepada objek seperti Drop Shadow di photoshop bedanya ini memberi suatu layer objek tambahan di bawahnya.
